@@ -7,5 +7,9 @@ Idea from [a Reddit comment](https://www.reddit.com/r/admincraft/comments/wj6n2r
 
 Tested on [Purpur 1.19](https://github.com/PurpurMC/Purpur).
 
+### Usage
+
+`/cookiesomnia on | off` to enable/disable (requires `cookiesomnia.admin` permission).
+
 ---
 *This project is licensed under GPLv3 (inherited from Spigot/Bukkit). For more information, please see [LICENSE.md](./LICENSE.md).*
