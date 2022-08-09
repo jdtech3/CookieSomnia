@@ -1,0 +1,18 @@
+name: CookieSomnia
+version: 1.0
+main: ca.j0e.cookiesomnia.CookieSomnia
+
+api-version: 1.19
+author: JDTech
+description: Allows eating of cookie to reset insomnia.
+
+commands:
+  cookiesomnia:
+    description: CookieSomnia
+    usage: /cookiesomnia
+    permission: cookiesomnia.admin
+
+permissions:
+  cookiesomnia.admin:
+    description: Allows toggling CookieSomnia on and off
+    default: op
